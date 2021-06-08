@@ -20,7 +20,7 @@ int main() {
 			}
 		}
 		if (negative) {
-			// output is NO if there is negative value
+			// the output is NO if there is a negative value
 			cout << "NO\n";
 			// continue the loop
 			continue;
