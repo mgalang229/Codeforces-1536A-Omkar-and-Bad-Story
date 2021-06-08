@@ -27,7 +27,7 @@ int main() {
 		}
 		// otherwise, it is always POSSIBLE to create a "nice" array
 		cout << "YES\n";
-		// print 101 elements since we will numbers from 0 to 100 (inclusive)
+		// print 101 elements since we will use numbers from 0 to 100 (inclusive)
 		cout << 101 << '\n';
 		for (int i = 0; i <= 100; i++) {
 			cout << i << " ";
